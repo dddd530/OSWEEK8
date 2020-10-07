@@ -1,0 +1,9 @@
+Range of offset is from 0 to 8KB
+8KB = 8192 bits = 2^13 bits
+
+
+Offset(in address) = 13 bits
+number(in address) = 16 - 13 = 3 bits
+
+Max number of entries is 2^3 = 8 
+ 

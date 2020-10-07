@@ -1,0 +1,11 @@
+Physical address
+
+Refer to hardware adress
+physical memory space is independent from virtual memory space
+User can not acces physical address
+
+Virtual address
+
+Refer to virtual store
+Virtual memory space is independent from physical memory space
+User can access virtual address
